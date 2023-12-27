@@ -1,0 +1,10 @@
+h2 {
+  padding-bottom: 0.5rem;
+}
+
+img {
+  width: 15rem;
+  height: 15rem;
+  border-radius: 50%;
+  box-shadow: 0 0 25px 4px rgba(32, 218, 224, 0.2);
+}
