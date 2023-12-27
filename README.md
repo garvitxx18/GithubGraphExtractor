@@ -2,7 +2,7 @@
 
 ```bash
 git clone https://github.com/garvitxx18/GithubGraphExtractor.git
-cd gitGraphRetriever
+cd GithubGraphExtractor
 cd client
 ```
 
